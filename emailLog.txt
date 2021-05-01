@@ -1,0 +1,130 @@
+---- Fulton sent a Schedule Change for: Calistoga Lot 0358 at Estrella Commons N-----
+	Rough-In Electrical has been re-scheduled for 02/08/2021
+	Prewire Structrd Wiring has been re-scheduled for 02/10/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0359 at Estrella Commons N-----
+	Rough-In Electrical has been re-scheduled for 02/09/2021
+	Prewire Structrd Wiring has been re-scheduled for 02/15/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0369 at Estrella Commons N-----
+	Rough-In Electrical has been re-scheduled for 02/10/2021
+	Prewire Structrd Wiring has been re-scheduled for 02/16/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0084 at Estrella Commons S-----
+	Rough-In Electrical has been re-scheduled for 02/10/2021
+	Prewire Structrd Wiring has been re-scheduled for 02/16/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0357 at Estrella Commons N-----
+	Rough-In Electrical has been re-scheduled for 02/11/2021
+	Prewire Structrd Wiring has been re-scheduled for 02/17/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0365 at Estrella Commons N-----
+	Underslab Electric has been re-scheduled for 02/11/2021
+	Rough-In Electrical has been re-scheduled for 03/17/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0372 at Estrella Commons N-----
+	Rough-In Electrical has been re-scheduled for 02/11/2021
+	Prewire Structrd Wiring has been re-scheduled for 02/17/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0382 at Estrella Commons N-----
+	Underslab Electric has been re-scheduled for 02/11/2021
+	Rough-In Electrical has been re-scheduled for 03/17/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0389 at Estrella Commons N-----
+	Underslab Electric has been re-scheduled for 02/11/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0403 at Estrella Commons N-----
+	Underslab Electric has been re-scheduled for 02/11/2021
+	Rough-In Electrical has been re-scheduled for 03/17/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0360 at Estrella Commons N-----
+	Rough-In Electrical has been re-scheduled for 02/12/2021
+	Prewire Structrd Wiring has been re-scheduled for 02/18/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0364 at Estrella Commons N-----
+	Rough-In Electrical has been re-scheduled for 02/12/2021
+	Prewire Structrd Wiring has been re-scheduled for 02/18/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0367 at Estrella Commons N-----
+	Rough-In Electrical has been re-scheduled for 02/12/2021
+	Prewire Structrd Wiring has been re-scheduled for 02/18/2021
+
+---- Fulton sent a Schedule Change for: Northshore Lot 0149 at Estrella Commons-----
+	Rough-In Electrical has been re-scheduled for 02/12/2021
+	Prewire Structrd Wiring has been re-scheduled for 02/18/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0086 at Estrella Commons S-----
+	Rough-In Electrical has been re-scheduled for 02/12/2021
+	Prewire Structrd Wiring has been re-scheduled for 02/18/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0097 at Estrella Commons S-----
+	Rough-In Electrical has been re-scheduled for 02/12/2021
+	Prewire Structrd Wiring has been re-scheduled for 02/18/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0105 at Estrella Commons S-----
+	Rough-In Electrical has been re-scheduled for 02/15/2021
+	Prewire Structrd Wiring has been re-scheduled for 02/19/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0404 at Estrella Commons N-----
+	Rough-In Electrical has been re-scheduled for 02/16/2021
+	Prewire Structrd Wiring has been re-scheduled for 02/22/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0344 at Estrella Commons N-----
+	Underslab Electric has been re-scheduled for 02/17/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0352 at Estrella Commons N-----
+	Rough-In Electrical has been re-scheduled for 02/17/2021
+	Prewire Structrd Wiring has been re-scheduled for 02/23/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0375 at Estrella Commons N-----
+	Underslab Electric has been re-scheduled for 02/17/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0376 at Estrella Commons N-----
+	Underslab Electric has been re-scheduled for 02/17/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0380 at Estrella Commons N-----
+	Underslab Electric has been re-scheduled for 02/17/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0381 at Estrella Commons N-----
+	Underslab Electric has been re-scheduled for 02/17/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0387 at Estrella Commons N-----
+	Underslab Electric has been re-scheduled for 02/17/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0332 at Estrella Commons N-----
+	Rough-In Electrical has been re-scheduled for 03/10/2021
+	Prewire Structrd Wiring has been re-scheduled for 03/16/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0371 at Estrella Commons N-----
+	Rough-In Electrical has been re-scheduled for 03/11/2021
+	Prewire Structrd Wiring has been re-scheduled for 03/17/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0348 at Estrella Commons N-----
+	Rough-In Electrical has been re-scheduled for 03/12/2021
+	Prewire Structrd Wiring has been re-scheduled for 03/18/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0087 at Estrella Commons S-----
+	Rough-In Electrical has been re-scheduled for 03/15/2021
+
+---- Fulton sent a New Activity for: Calistoga Lot 0315 at Estrella Commons N-----
+	Underslab Electric is scheduled for 03/17/2021
+
+---- Fulton sent a New Activity for: Calistoga Lot 0319 at Estrella Commons N-----
+	Underslab Electric is scheduled for 03/17/2021
+
+---- Fulton sent a New Activity for: Calistoga Lot 0330 at Estrella Commons N-----
+	Underslab Electric is scheduled for 03/17/2021
+
+---- Fulton sent a Schedule Change for: Calistoga Lot 0424 at Estrella Commons N-----
+	Trim Structure Wiring has been re-scheduled for 03/18/2021
+	Hot Check Electric has been re-scheduled for 03/18/2021
+
+---- Fulton sent a Schedule Change for: Northshore Lot 0221 at Estrella Commons-----
+	Prewire Structrd Wiring has been re-scheduled for 03/18/2021
+
+---- Fulton sent a New Activity for: Silverado Lot 0102 at Escalante-----
+	Prewire Structrd Wiring is scheduled for 03/18/2021
+
+---- Fulton sent a New Activity for: Cottonwood Lot 0073 at Glennwilde-----
+	Trim Structure Wiring is scheduled for 03/18/2021
+
